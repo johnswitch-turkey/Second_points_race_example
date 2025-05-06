@@ -6,14 +6,14 @@ second_points_race_kemukaoshi/control.o: ..\USER\C\control.c \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xc.h \
   ..\Drivers\CMSIS\Include\core_cm4.h \
-  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  D:\Programs\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
   ..\Drivers\CMSIS\Include\cmsis_version.h \
   ..\Drivers\CMSIS\Include\cmsis_compiler.h \
   ..\Drivers\CMSIS\Include\cmsis_armclang.h \
   ..\Drivers\CMSIS\Include\mpu_armv7.h \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
-  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  D:\Programs\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h \
@@ -33,7 +33,8 @@ second_points_race_kemukaoshi/control.o: ..\USER\C\control.c \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h \
   ..\USER\H\control.h ..\USER\H\encoder.h ..\USER\H\pid.h \
   ..\USER\H\motor.h ..\USER\H\key.h \
-  D:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h ..\MPU6050\mpu6050.h \
-  ..\MPU6050\mpuiic.h ..\Core\Inc\main.h ..\MPU6050\mpu6050.h \
-  ..\MPU6050\eMPL\inv_mpu.h ..\MPU6050\eMPL\inv_mpu_dmp_motion_driver.h \
-  ..\USER\H\uart.h ..\USER\H\control.h ..\USER\H\decode.h
+  D:\Programs\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  ..\MPU6050\mpu6050.h ..\MPU6050\mpuiic.h ..\Core\Inc\main.h \
+  ..\MPU6050\mpu6050.h ..\MPU6050\eMPL\inv_mpu.h \
+  ..\MPU6050\eMPL\inv_mpu_dmp_motion_driver.h ..\USER\H\uart.h \
+  ..\USER\H\control.h ..\USER\H\decode.h
